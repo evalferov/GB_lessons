@@ -66,6 +66,5 @@ public class Main_lesson2 {
         }
     }
 
-
 }
 
